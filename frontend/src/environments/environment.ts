@@ -1,11 +1,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyC1Zu3HqXxHs4ILbi00RHQs-J42TlHjxL8",
-    authDomain: "vbpositions.firebaseapp.com",
-    projectId: "vbpositions",
-    storageBucket: "vbpositions.appspot.com",
-    messagingSenderId: "758655148145",
-    appId: "1:758655148145:web:5c1077eedb8ce640aabbd0",
+    apiKey: "AIzaSyC25NQsSGqPjkERI73-xbEjk1Cqic322ls",
+    authDomain: "volleyball-vance.firebaseapp.com",
+    projectId: "volleyball-vance",
+    storageBucket: "volleyball-vance.firebasestorage.app",
+    messagingSenderId: "695443609162",
+    appId: "1:695443609162:web:b979f8d8f97478f317b8b3"
   },
+
 };
